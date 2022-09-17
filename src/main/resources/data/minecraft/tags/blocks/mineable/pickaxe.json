@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "ccdpaleomod:amber_ore",
+    "ccdpaleomod:deepslate_amber_ore",
+    "ccdpaleomod:amber_block",
+    "ccdpaleomod:gypsum_cobblestone",
+    "ccdpaleomod:gypsum_stone",
+    "ccdpaleomod:hardened_silt",
+    "ccdpaleomod:limestone",
+    "ccdpaleomod:marble",
+    "ccdpaleomod:packed_loam",
+    "ccdpaleomod:shale",
+    "ccdpaleomod:siltstone"
+  ]
+}

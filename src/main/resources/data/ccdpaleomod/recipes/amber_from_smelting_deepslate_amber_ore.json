@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "amber",
+  "ingredient": {
+    "item": "ccdpaleomod:deepslate_amber_ore"
+  },
+  "result": "ccdpaleomod:amber"
+}

@@ -1,0 +1,37 @@
+{
+  "item.ccdpaleomod.amber": "Chunk of Raw Amber",
+  "item.ccdpaleomod.amber_mosquito": "Mosquito in Amber",
+  "item.ccdpaleomod.amber_aphid": "Aphid in Amber",
+  "item.ccdpaleomod.triassic_amber_mosquito": "Triassic Mosquito In Amber",
+  "item.ccdpaleomod.plant_fossil": "Plant Fossil",
+
+  "block.ccdpaleomod.amber_block": "Block of Amber",
+  "block.ccdpaleomod.amber_ore": "Amber Ore",
+  "block.ccdpaleomod.deepslate_amber_ore": "Deepslate Amber Ore",
+  "block.ccdpaleomod.stone_plant_fossil_ore": "Stone Plant Fossil",
+  "block.ccdpaleomod.shale_plant_fossil_ore": "Shale Plant Fossil",
+  "block.ccdpaleomod.siltstone_plant_fossil_ore": "Siltstone Plant Fossil",
+  "block.ccdpaleomod.limestone_plant_fossil_ore": "Limestone Plant Fossil",
+  "block.ccdpaleomod.terracotta_plant_fossil_ore": "Terracotta Plant Fossil",
+  "block.ccdpaleomod.sandstone_plant_fossil_ore": "Sandstone Plant Fossil",
+
+  "block.ccdpaleomod.shale": "Shale",
+  "block.ccdpaleomod.siltstone": "Siltstone",
+  "block.ccdpaleomod.limestone": "Limestone",
+  "block.ccdpaleomod.marble": "Marble",
+  "block.ccdpaleomod.gypsum_stone": "Gypsum",
+  "block.ccdpaleomod.gypsum_cobblestone": "Gypsum Cobblestone",
+  "block.ccdpaleomod.silt": "Silt",
+  "block.ccdpaleomod.hardened_silt": "Hardened Silt",
+  "block.ccdpaleomod.loam": "Loam",
+  "block.ccdpaleomod.packed_loam": "Packed Loam",
+  "block.ccdpaleomod.peat": "Peat",
+  "block.ccdpaleomod.peat_moss": "Peat Moss",
+  "block.ccdpaleomod.dirt_moss": "Mossy Dirt",
+
+
+
+  "itemGroup.paleomodblocks": "PaleoMod Blocks",
+  "itemGroup.paleomoditems": "PaleoMod Items"
+}
+

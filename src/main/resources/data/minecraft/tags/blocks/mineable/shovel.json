@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "ccdpaleomod:moss_dirt",
+    "ccdpaleomod:loam",
+    "ccdpaleomod:peat",
+    "ccdpaleomod:peat_moss",
+    "ccdpaleomod:silt"
+  ]
+}
